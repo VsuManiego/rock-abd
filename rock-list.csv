@@ -1,0 +1,34 @@
+ROCK TYPE,ROCK NAME,TEXTURE,COLOR
+Igneous Rock,Granite,Coarse-grained,White/gray/pink
+Igneous Rock,Diorite,Coarse-grained,Salt and pepper/white and black
+Igneous Rock,Gabbro,Coarse-grained,Dark gray/black
+Igneous Rock,Peridotite,Coarse-grained,Olivine/green
+Igneous Rock,Rhyolite,Fine-grained,White/gray/pink
+Igneous Rock,Andesite,Fine-grained,Dark gray
+Igneous Rock,Basalt,Fine-grained,Dark gray/black
+Igneous Rock,Rhyolite Porphyry,Phenocrysts or Large crystals,Quartz/pink/citrine/yellow
+Igneous Rock,Andesite Porphyry,Phenocrysts or Large crystals,Plagioclase/white/gray/or bluish white
+Igneous Rock,Andesite Porphyry,Phenocrysts or Large crystals,Olivine/green/yellow green
+Igneous Rock,Obsidian,Glassy,black/red/brow
+Igneous Rock,Pumice,Vesicular or Full of holes,White/gray
+Igneous Rock,Scoria,Vesicular or Full of holes,Black/red/brown
+Igneous Rock,Vesicular Basalt,Vesicular or Full of holes,Black/gray/brown
+Metamorphic Rocks,Gneiss,Coarse-grained,Dark green
+Metamorphic Rocks,Slate,Fine-grained,Dark gray
+Metamorphic Rocks,Phyllite,Very Fine-grained,Light green
+Metamorphic Rocks,Schist,Medium-grained,Light gray
+Metamorphic Rocks,Marble,Medium-grained,White
+Sedimentary Rocks,Sandstone,Coarse-grained,Red/brown/gray/white/yellow/green
+Sedimentary Rocks,Conglomerate,Coarse-grained,Black/brown/white/dark gray
+Sedimentary Rocks,Breccia,Coarse-grained,Reddish brown
+Sedimentary Rocks,Siltstone,Fine-grained,Reddish brown
+Sedimentary Rocks,Quartz,Fine-grained,White/brown
+Sedimentary Rocks,Graywacke,Fine-grained,Black/gray
+Sedimentary Rocks,Coal,Fine-grained,Black/brownish black
+Sedimentary Rocks,Chalk,Fine-grained,White
+Sedimentary Rocks,Chert,Fine-grained,Gray/brown/green/red
+Sedimentary Rocks,Limestone,Fine-grained,White/gray/yellow
+Sedimentary Rocks,Mudstone,Very Fine-grained,Black/gray/brown/red/green/blue
+Sedimentary Rocks,Shale,Very Fine-grained,Black/gray/brown/red/green/blue
+Sedimentary Rocks,Marl or Maristone,Very Fine-grained,Green/brown/beige/gray
+
